@@ -7,7 +7,7 @@
 
 ## Hi there, I'm Neeraj Jha 👋
 
-<img src="assets/rocket-cat.gif" width="100%"/>
+<img src="assets/placeholder.md/rocket-cat.gif" width="100%"/>
 
 ## About Me
 
@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi,react,postgres,docker,sklearn,git" />
 </p>
 
-<img src="assets/astronaut-cat.gif" width="100%"/>
+<img src="assets/placeholder.md/astronaut-cat.gif" width="100%"/>
 
 ## Professional Experience
 
@@ -81,16 +81,16 @@ JIMSEMTC — Guru Gobind Singh Indraprastha University, New Delhi
 📧 Email: [jhaneeraj2003@gmail.com](mailto:jhaneeraj2003@gmail.com)
 💼 LinkedIn: [Neeraj Jha](www.linkedin.com/in/neeraj-jha-a471521ab)
 
-<img src="assets/laughing-cat.gif" width="100%"/>
+<img src="assets/placeholder.md/laughing-cat.gif" width="100%"/>
 
 Feel free to reach out for AI/ML collaborations, projects, or just to connect!
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=neeraj-jhaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&icon_color=00d4ff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-jhaa&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=00d4ff&fire=FF6F91" width="48%"/>
+<img src="https://github-readme-stats-oc57pmr4i-jhaneeraj2003-5688s-projects.vercel.app/api?username=neeraj-jhaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&icon_color=00d4ff&cache_seconds=86400" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=neeraj-jhaa&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=00d4ff&fire=FF6F91" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-jhaa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=neeraj-jhaa&theme=radical&no-frame=true&margin-w=10&column=4" width="48%"/>
+<img src="https://github-readme-stats-oc57pmr4i-jhaneeraj2003-5688s-projects.vercel.app/api/top-langs/?username=neeraj-jhaa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
+<img src="https://github-profile-trophy-lp50b1sbu-jhaneeraj2003-5688s-projects.vercel.app/?username=neeraj-jhaa&theme=radical&no-frame=true&margin-w=10&column=4" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj-jhaa&theme=react-dark&bg_color=0d1117&color=00d4ff&line=B892FF&point=FF6F91&hide_border=true" width="100%"/>
