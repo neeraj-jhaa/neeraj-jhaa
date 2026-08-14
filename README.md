@@ -7,7 +7,7 @@
 
 ## Hi there, I'm Neeraj Jha 👋
 
-<img src="assets/placeholder.md/rocket-cat.gif" width="100%"/>
+<img src="assets/rocket-cat.gif.gif" width="50%"/>
 
 ## About Me
 
