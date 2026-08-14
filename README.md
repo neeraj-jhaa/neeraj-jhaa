@@ -81,7 +81,7 @@ JIMSEMTC — Guru Gobind Singh Indraprastha University, New Delhi
 📧 Email: [jhaneeraj2003@gmail.com](mailto:jhaneeraj2003@gmail.com)
 💼 LinkedIn: [Neeraj Jha](www.linkedin.com/in/neeraj-jha-a471521ab)
 
-<p align="center"><img src="assets/laughing-cat.gif.gif" width="150%"/></p>
+<p align="center"><img src="assets/laughing-cat.gif.gif" width="70%"/></p>
 
 Feel free to reach out for AI/ML collaborations, projects, or just to connect!
 
