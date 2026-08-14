@@ -7,7 +7,7 @@
 
 ## Hi there, I'm Neeraj Jha 👋
 
-<img src="assets/rocket-cat.gif.gif" width="50%"/>
+<p align="center"><img src="assets/rocket-cat.gif-ezgif.com-crop(1).gif" width="35%"/></p>
 
 ## About Me
 
