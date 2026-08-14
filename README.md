@@ -1,42 +1,96 @@
-<h1 align="center">✨ Hey, I'm Neeraj 👋</h1>
+<!--
+  NEERAJ JHA — GITHUB PROFILE README (v2)
+  Left-aligned layout, white headings, full resume content.
+  Replace YOUR_LINKEDIN_URL with your real LinkedIn link before pushing.
+  Gifs expected at: assets/rocket-cat.gif, assets/astronaut-cat.gif, assets/laughing-cat.gif
+-->
+
+## Hi there, I'm Neeraj Jha 👋
+
+<img src="assets/rocket-cat.gif" width="100%"/>
+
+## About Me
+
+* 🤖 I'm an AI Engineer specializing in Machine Learning, Deep Learning, Generative AI, and AI-powered applications.
+* 🎓 B.Tech in Artificial Intelligence & Machine Learning from GGSIPU, Delhi (2022–2026, CGPA: 7.80/10.00).
+* 🔐 Ex-SOC Analyst Intern at NuSummit CyberSecurity, with experience in security analytics, log analysis, SIEM, and incident response.
+* 🚀 Building projects with Python, LangChain, LLMs, RAG, FastAPI, PostgreSQL, Docker & React, with a strong interest in AI × Cybersecurity.
 
 <p align="center">
-  🚀 AI | ML | Data Enthusiast <br>
-  🎮 Gamer | ✈️ Explorer | 📷 Shutterbug <br>
-  📖 Lifelong Learner | 💻 Code Artist
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi,react,postgres,docker,sklearn,git" />
 </p>
 
----
+<img src="assets/astronaut-cat.gif" width="100%"/>
 
-## ⚡ About Me
-- 🛠️ Building cool AI & ML projects  
-- 🎯 Focused on solving real-world problems  
-- 🌱 Learning new tech & exploring creative ideas  
+## Professional Experience
 
-## 🌐 Connect with me  
-<p align="left">
-  📧 jhaneeraj2003@gmail.com <br>
-  📧  <a href="https://www.instagram.com/ssup.neerajj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  🔗 <a href="www.linkedin.com/in/neeraj-jha-a471521ab">LinkedIn</a>  
-</p>
+**NuSummit CyberSecurity**
+SOC Analyst Intern (July 2025 – September 2025)
+* Applied log analysis and pattern recognition across 4+ security data sources, including endpoint, firewall, IDS/IPS, and cloud environments.
+* Collaborated with security engineers on real-time incident response and root-cause analysis, contributing to faster triage across live alerts.
+* Analyzed cybersecurity datasets including network logs and SIEM alerts, building domain knowledge relevant to ML-based anomaly detection.
 
----
+**Malangia Arts**
+Freelance Web & 3D Design Consultant
+* Enhanced the company website and digital presentation, improving UI structure and visual consistency across key sections.
+* Designed 3D models and graphical assets for event planning, visualization, and pre-production workflows.
+* Developed visual representations for event layouts, installations, and spatial elements, supporting planning and client presentations.
+* Combined 3D visualization, graphic design, and web development to translate event concepts into production-ready visual references.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neeraj-jhaa&color=blue&style=flat-square" alt="Profile Views"/>  
-</p>
+## Projects
 
+**AgentForge — AI Voice Sales Agent**
+Supabase • PostgreSQL • LangChain • ChromaDB • Ollama • Piper TTS • Docker
+* Built a RAG pipeline using LangChain and ChromaDB for context-aware, knowledge-grounded responses.
+* Integrated Faster-Whisper, Ollama, and Piper TTS to achieve 100% offline AI inference, eliminating dependency on paid APIs.
+* Developed FastAPI backend services for lead management, conversation history, and AI-generated call summaries.
+* Containerized the complete AI pipeline using Docker, creating a modular and production-ready architecture.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neeraj-jhaa&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neeraj-jhaa&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-jhaa&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Inventory & Order Management System**
+FastAPI • React • PostgreSQL • Docker • Render • Vercel
+* Developed and deployed a full-stack platform managing Products, Customers, Orders, and Inventory.
+* Designed and implemented 20+ RESTful API endpoints covering authentication, CRUD operations, inventory, orders, and dashboards.
+* Implemented automatic stock deduction, inventory validation, unique SKU/email constraints, and input validation.
+* Containerized and deployed the application using Docker & Docker Compose, with the frontend on Vercel and backend on Render.
 
----
-[![](https://visitcount.itsvg.in/api?id=neeraj-jhaa&icon=0&color=0)](https://visitcount.itsvg.in)
+## Technical Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages:** Python • SQL • C
+**ML/DL:** Scikit-learn • TensorFlow/Keras • XGBoost • LSTM
+**GenAI:** LangChain • RAG • ChromaDB • Ollama
+**Backend & Deployment:** FastAPI • Docker • PostgreSQL
+**Cloud & Tools:** Google Vertex AI • Git/GitHub • Jupyter Notebook
+**Data & Visualization:** Pandas • NumPy • Matplotlib • Power BI • Excel
+**Cybersecurity:** Wireshark • IBM QRadar • CrowdStrike • DarkTrace
 
+## Achievements & Certifications
+
+* 🥈 2nd Position — BitWars Hackathon (February 2025)
+* ☁️ Generative AI — Google Cloud Skills Boost (April 2025)
+* 🔐 AI for CyberSecurity — ClassAvatar (October 2024)
+* 🎙️ Explored Text-to-Speech — IBM Watson (October 2024)
+
+## Education
+
+**B.Tech in Artificial Intelligence & Machine Learning**
+JIMSEMTC — Guru Gobind Singh Indraprastha University, New Delhi
+2022 – 2026 | CGPA: 7.80/10.00
+
+## Get in Touch
+
+📧 Email: [jhaneeraj2003@gmail.com](mailto:jhaneeraj2003@gmail.com)
+💼 LinkedIn: [Neeraj Jha](www.linkedin.com/in/neeraj-jha-a471521ab)
+
+<img src="assets/laughing-cat.gif" width="100%"/>
+
+Feel free to reach out for AI/ML collaborations, projects, or just to connect!
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=neeraj-jhaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&icon_color=00d4ff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-jhaa&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=00d4ff&fire=FF6F91" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-jhaa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=neeraj-jhaa&theme=radical&no-frame=true&margin-w=10&column=4" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj-jhaa&theme=react-dark&bg_color=0d1117&color=00d4ff&line=B892FF&point=FF6F91&hide_border=true" width="100%"/>
