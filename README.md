@@ -1,9 +1,4 @@
-<!--
-  NEERAJ JHA — GITHUB PROFILE README (v2)
-  Left-aligned layout, white headings, full resume content.
-  Replace YOUR_LINKEDIN_URL with your real LinkedIn link before pushing.
-  Gifs expected at: assets/rocket-cat.gif, assets/astronaut-cat.gif, assets/laughing-cat.gif
--->
+
 
 ## Hi there, I'm Neeraj Jha 👋
 
