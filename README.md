@@ -86,7 +86,7 @@ JIMSEMTC — Guru Gobind Singh Indraprastha University, New Delhi
 Feel free to reach out for AI/ML collaborations, projects, or just to connect!
 
 ## GitHub Stats
-<img src="https://streak-stats.demolab.com/?user=neeraj-jhaa&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=00d4ff&fire=FF6F91" width="48%"/>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=neeraj-jhaa&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=00d4ff&fire=FF6F91" width="48%"/></p>
 
 
 
